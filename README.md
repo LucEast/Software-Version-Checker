@@ -75,3 +75,5 @@ pip3 install grequests
 pip3 install beautifulsoup4
 pip3 install tkScrolledFrame
 ```
+
+![ReadMe_Card](https://github-readme-stats.vercel.app/api/pin/?username=LucEast&repo=Software-Version-Checker&title_color=3e83c8&text_color=00cb71&icon_color=299bab&bg_color=171717&hide_border=true)
