@@ -1,10 +1,10 @@
 # Software Version Checker
 A Python Script that crawls given URL's to look after Software-Updates.
 
-![SVC screenshot](https://github.com/LucEast/Software-Version-Checker/master/screen.png)
+![SVC screenshot](https://github.com/LucEast/Software-Version-Checker/blob/main/screen.png)
 
 
-![CLI interface](https://github.com/LucEast/Software-Version-Checker/cli.png)
+![CLI interface](https://github.com/LucEast/Software-Version-Checker/blob/cli.png)
 
 ## Supported tools
 - ALEAPP
