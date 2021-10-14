@@ -7,6 +7,7 @@ A Python Script that crawls given URL's to look after Software-Updates.
 ![CLI interface](https://github.com/LucEast/Software-Version-Checker/blob/main/cli.png)
 
 ## Supported tools
+- 7zip
 - ALEAPP
 - Arsenal Image Mounter
 - Atola TaskForce
@@ -39,6 +40,7 @@ A Python Script that crawls given URL's to look after Software-Updates.
 - MacQuisition
 - MobilEdit
 - Mount Image Pro
+- MySQL Connector ODBC
 - NetAnalysis
 - NirSoft Launcher
 - NSRL hash list
